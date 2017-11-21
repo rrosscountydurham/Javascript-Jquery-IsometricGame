@@ -1,0 +1,26 @@
+<graphics>
+	<graphic name="tiles.png">
+		<type>Tiles</type>
+		<width>128</width>
+		<height>64</height>
+		<columns>6</columns>
+	</graphic>
+	<graphic name="decals.png">
+		<type>Tiles</type>
+		<width>63</width>
+		<height>80</height>
+		<columns>4</columns>
+	</graphic>
+	<graphic name="char.png">
+		<type>Sprite</type>
+	</graphic>
+	<graphic name="empty.png">
+		<type>Sprite</type>
+	</graphic>
+	<graphic name="cursor.png">
+		<type>Sprite</type>
+	</graphic>
+	<graphic name="cursor2.png">
+		<type>Sprite</type>
+	</graphic>
+</graphics>
